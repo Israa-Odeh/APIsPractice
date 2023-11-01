@@ -17,6 +17,7 @@ stores weather information in structured text files.
 Enables users to:
 - Access weather information for a particular city.
 - Acquire weather details for a list of Palestinian cities.
+- Arranges the JSON response into text files for easier reading.
 
 
 ## JSONPlaceholderAPI_POST
